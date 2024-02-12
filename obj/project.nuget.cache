@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+DTGKQCRbu/APNQgkm6GNySTKXF5s5npoB+VudDxHLqfEBtVIHxxVZFhFNCnAWLgtS73bHpSE9X7+hi+hjnBA==",
+  "dgSpecHash": "Iq4MNZ9jwiiGiGdng0OIasJ9gMvOvsCho1CRTn3QctQiKEbC5/q2H+fIIwyWAT3nFhU4yENF1OmulYxh34stmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MIGUEL\\source\\repos\\Leilao1\\Leilao1.csproj",
+  "projectFilePath": "C:\\Users\\MIGUEL\\Documents\\dev\\Leilao1API\\Leilao1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.1\\microsoft.data.sqlite.core.8.0.1.nupkg.sha512",
     "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",

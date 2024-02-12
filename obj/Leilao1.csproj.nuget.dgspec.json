@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MIGUEL\\source\\repos\\Leilao1\\Leilao1.csproj": {}
+    "C:\\Users\\MIGUEL\\Documents\\dev\\Leilao1API\\Leilao1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MIGUEL\\source\\repos\\Leilao1\\Leilao1.csproj": {
+    "C:\\Users\\MIGUEL\\Documents\\dev\\Leilao1API\\Leilao1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MIGUEL\\source\\repos\\Leilao1\\Leilao1.csproj",
+        "projectUniqueName": "C:\\Users\\MIGUEL\\Documents\\dev\\Leilao1API\\Leilao1.csproj",
         "projectName": "Leilao1",
-        "projectPath": "C:\\Users\\MIGUEL\\source\\repos\\Leilao1\\Leilao1.csproj",
+        "projectPath": "C:\\Users\\MIGUEL\\Documents\\dev\\Leilao1API\\Leilao1.csproj",
         "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MIGUEL\\source\\repos\\Leilao1\\obj\\",
+        "outputPath": "C:\\Users\\MIGUEL\\Documents\\dev\\Leilao1API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
